@@ -27,8 +27,8 @@ public class AreaCalculator {
     double area = width * height;
     double paintNeeded =  area * 0.5;
 
-    System.out.println("A area da parede a ser pintada equivale a " + area + " m² ");
-    System.out.println("e a quantidade de tinta necessaria equivale a " + paintNeeded + " litros");
+    System.out.println("The area of the wall to be painted is " + area + " m² ");
+    System.out.println("and the amount of ink needed is " + paintNeeded + " liters");
 
     System.out.println("Press Enter to exit...");
     scanner.nextLine(); 
