@@ -43,9 +43,7 @@ public class DoubleThird {
     scanner.nextLine(); 
     
     scanner.close();
-
-    
-
+  
   }
   
 }
