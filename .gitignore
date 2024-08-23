@@ -1,0 +1,4 @@
+#bin and class files
+
+bin/
+*.class
