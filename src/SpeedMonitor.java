@@ -30,7 +30,6 @@ public class SpeedMonitor {
       System.out.println("The driver did not exceed the speed limit, so they will not have to pay a fine.");
     }
 
-
     System.out.println("Press Enter to exit...");
     scanner.nextLine(); 
     scanner.nextLine(); 
